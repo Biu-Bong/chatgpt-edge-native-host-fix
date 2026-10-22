@@ -1,0 +1,8 @@
+# local run artifacts
+eh-proxy.log
+*.bak-*
+*.log
+
+# Windows
+Thumbs.db
+desktop.ini
